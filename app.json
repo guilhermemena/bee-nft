@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "bee-nft",
+    "entryPoint": "./src/app",
     "slug": "bee-nft",
     "version": "1.0.0",
     "orientation": "portrait",
